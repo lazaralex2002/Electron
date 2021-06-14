@@ -1,6 +1,6 @@
 ## Electron 
 
-Electron is a project developed by me and @alexhodo in C++, using the SFML library. 
+Electron is a project developed by me and <a href="https://github.com/AlexHodo"> @alexhodo </a> in C++, using the SFML library. 
 
 
 <b>Video Preview:
