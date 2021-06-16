@@ -1,7 +1,7 @@
 ## Electron 
 
 Electron is a project developed by me and <a href="https://github.com/AlexHodo"> @alexhodo </a> in C++, using the SFML library. 
-
+!!! This project does not use OOP principles because they were not known at the time of creation. !!!
 
 <b>Video Preview:
 
